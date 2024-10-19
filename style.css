@@ -1,24 +1,36 @@
 html, body{
-    background-color:white;
-}
-
-h1{
+    background-color:#5e747f;
+    width: 95vw;
+ }
+ 
+ h1{
     text-align: center;
-    color:crimson;
+    color:#d2d0ba;
     font-size: 60px;
-}
-
-h2{
-    color:red;
+    font-family: "Slabo 27px";
+    width: 95vw;
+ }
+ 
+ h2{
+    background-color:#e5c1bd;
+    color:#7b9e87;
+    text-align: center;
     font-size: 35px;
-}
+    font-family: "Slabo 27px";
+    width: 95vw;
+    height: 4vw;
+ }
 
-p{
-    color:orangered;
+ p{
+    color: #d2d0ba;
     font-size: 20px;
-}
-
-img{
-    width: 70vw;
-    height: 50vw;
-}
+    font-family: 'Coming Soon';
+    width: 95vw;
+    height: 15vw;
+ }
+ 
+ .case_text{
+    color: lightsalmon;
+ }
+ 
+  
